@@ -1,0 +1,4 @@
+invoiceId,invoiceDate,status,clientName,dueDate,productName,quantity,unitPrice
+INV-005,2024-05-22,PAID,FreshMart Groceries,2024-06-22,Olive Oil 1L,30,7.99
+INV-005,2024-05-22,PAID,FreshMart Groceries,2024-06-22,Whole Grain Flour 1kg,50,2.50
+INV-005,2024-05-22,PAID,FreshMart Groceries,2024-06-22,Organic Honey 500g,25,9.99

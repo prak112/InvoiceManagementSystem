@@ -1,0 +1,6 @@
+invoiceId,invoiceDate,status,clientName,dueDate,productName,quantity,unitPrice
+INV-003,2024-03-12,PAID,EduSmart,2024-04-12,Whiteboard Markers (Set),5,9.99
+INV-003,2024-03-12,PAID,EduSmart,2024-04-12,Notebooks (Pack of 10),8,14.50
+INV-003,2024-03-12,PAID,EduSmart,2024-04-12,Projector Screen,1,199.99
+INV-003,2024-03-12,PAID,EduSmart,2024-04-12,Sticky Notes (Pack),12,4.25
+INV-003,2024-03-12,PAID,EduSmart,2024-04-12,Ballpoint Pens (Box),6,7.80

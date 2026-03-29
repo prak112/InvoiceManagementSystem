@@ -1,0 +1,5 @@
+invoiceId,invoiceDate,status,clientName,dueDate,productName,quantity,unitPrice
+INV-001,2024-01-10,PAID,TechCorp Ltd,2024-02-10,Laptop Stand,2,45.00
+INV-001,2024-01-10,PAID,TechCorp Ltd,2024-02-10,USB-C Hub,3,29.99
+INV-001,2024-01-10,PAID,TechCorp Ltd,2024-02-10,Wireless Keyboard,1,89.99
+INV-001,2024-01-10,PAID,TechCorp Ltd,2024-02-10,Monitor Cable,4,12.50

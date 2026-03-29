@@ -1,0 +1,4 @@
+invoiceId,invoiceDate,status,clientName,dueDate,productName,quantity,unitPrice
+INV-002,2024-02-05,UNPAID,HealthPlus,2024-03-05,Medical Gloves (Box),10,15.00
+INV-002,2024-02-05,UNPAID,HealthPlus,2024-03-05,Surgical Masks (Pack),20,8.50
+INV-002,2024-02-05,UNPAID,HealthPlus,2024-03-05,Hand Sanitizer 500ml,15,6.99

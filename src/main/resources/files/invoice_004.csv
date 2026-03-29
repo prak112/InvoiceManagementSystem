@@ -1,0 +1,5 @@
+invoiceId,invoiceDate,status,clientName,dueDate,productName,quantity,unitPrice
+INV-004,2024-04-18,UNPAID,BuildRight Construction,2024-05-18,Cement Bags (50kg),50,12.00
+INV-004,2024-04-18,UNPAID,BuildRight Construction,2024-05-18,Steel Rods (per unit),100,8.75
+INV-004,2024-04-18,UNPAID,BuildRight Construction,2024-05-18,Safety Helmets,20,22.00
+INV-004,2024-04-18,UNPAID,BuildRight Construction,2024-05-18,Paint Brushes (Set),15,11.50
