@@ -73,7 +73,7 @@
                 <executions>
                     <execution>
                         <!-- Default configuration for running with: mvn clean javafx:run -->
-                        <id>default-cli</id>
+                        <invoiceId>default-cli</invoiceId>
                         <configuration>
                             <mainClass>
                                 com.example.invoicemanagementsystem/com.example.invoicemanagementsystem.HelloApplication
